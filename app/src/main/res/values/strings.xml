@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BASE64 Performance Tester</string>
+    <string name="headline_text">%s file average:</string>
+    <string name="waiting">Waiting…</string>
+    <string name="encoding_decoding">Encoding: %1$dµs\nDecoding: %2$dµs</string>
+</resources>
